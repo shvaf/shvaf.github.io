@@ -2,7 +2,7 @@
 layout: page
 title: Determination of Deep Vein Thrombosis Diagnosis using Python and Natural Language Processing
 description: Published May 26, 2025
-img: assets/img/dvt.jpg
+img: assets/img/dvt.jpg 
 importance: 1
 category: work
 related_publications: true
