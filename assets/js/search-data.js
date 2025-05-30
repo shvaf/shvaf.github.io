@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-using-sql-to-build-a-cohort-to-evaluate-diabetes-amp-ed-visits",
           title: 'Using SQL to Build a Cohort to evaluate Diabetes &amp;amp; ED Visits',
-          description: "a project with a background image and giscus comments",
+          description: "Updated May 29, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
