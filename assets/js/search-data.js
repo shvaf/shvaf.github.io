@@ -456,8 +456,8 @@ ninja.data = [{
           description: "Published May 26, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-using-sql-to-build-a-cohort-to-evaluate-diabetes-amp-ed-visits",
+          title: 'Using SQL to Build a Cohort to evaluate Diabetes &amp;amp; ED Visits',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
