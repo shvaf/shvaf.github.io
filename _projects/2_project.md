@@ -17,7 +17,7 @@ This SQL script defines a real-world-style cohort of patients with:
 
 ## Final Cohort
 
-
+![image](assets/img/SQL cohort output.png)
 
 Although the synthetic data only returns one patient meeting these criteria, the logic is easily extendable to other conditions or encounter types. The sample size is only 1000 patients and tweaking the criteria for age and time between diabetes diagnosis and ED visit did not increase the number of available patients. 
 
