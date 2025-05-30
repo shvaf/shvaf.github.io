@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Using SQL to Build a Cohort to evaluate Diabetes & ED Visits 
 description: a project with a background image and giscus comments
 img: assets/img/diabetes.jpg
 importance: 2
