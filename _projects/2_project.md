@@ -3,7 +3,7 @@ layout: page
 title: Using SQL to Build a Cohort to evaluate Diabetes & ED Visits 
 description: Updated May 29, 2025
 img: assets/img/diabetes.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
