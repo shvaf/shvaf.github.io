@@ -15,15 +15,6 @@ This SQL script defines a real-world-style cohort of patients with:
 - Diagnosed before age 40
 - Who had an emergency department (ED) visit within 6 months of diagnosis
 
-## Final Cohort
-
-| patient                                | diabetes_start_date | age_at_diagnosis | encounter_start        |
-|----------------------------------------|----------------------|------------------|-------------------------|
-| 14dc5e57-1b84-3305-c042-86c9fc7e4996   | 12/29/2012           | 29               | 2013-02-09T04:21:38Z    |
-
-
-Although the synthetic data only returns one patient meeting these criteria, the logic is easily extendable to other conditions or encounter types. The sample size is only 1000 patients and tweaking the criteria for age and time between diabetes diagnosis and ED visit did not increase the number of available patients. 
-
 ### Technologies and Skills Used
 - PostgreSQL
 - Common Table Expressions (CTEs)
@@ -34,6 +25,15 @@ Although the synthetic data only returns one patient meeting these criteria, the
 ### Data Source 
 
 The synthetic data comes from  SyntheaTM, an open-source patient population simulation made available by The MITRE Corporation which can be found at this [link](https://synthea.mitre.org/downloads). I used the 1k patient sample.
+
+## Final Cohort
+
+| patient                                | diabetes_start_date | age_at_diagnosis | encounter_start        |
+|----------------------------------------|----------------------|------------------|-------------------------|
+| 14dc5e57-1b84-3305-c042-86c9fc7e4996   | 12/29/2012           | 29               | 2013-02-09T04:21:38Z    |
+
+
+Although the synthetic data only returns one patient meeting these criteria, the logic is easily extendable to other conditions or encounter types. The sample size is only 1000 patients and tweaking the criteria for age and time between diabetes diagnosis and ED visit did not increase the number of available patients. 
 
 ### Code Files
 
