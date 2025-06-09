@@ -3,7 +3,6 @@ layout: page
 title: Optimizing Coffee Selection by Budget
 description: published June, 2025
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 1
 category: work
 ---
