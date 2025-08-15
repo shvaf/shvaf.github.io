@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This portfolio is currently under construction. I do have some projects up under the Project tab so please head over there for now. Feel free to come back in the coming weeks as this portfolio is further customized. If you want to provide any feedback or contact me, my LinkedIn is [here](https://www.linkedin.com/in/stamatiavafeas/) and my email is shvafeas@gmail.com. -Tia 
+This portfolio is currently under construction. There are projects under the Project tab so please head over there for now. Feel free to come back in the coming weeks as this portfolio is further customized. If you want to provide any feedback or contact me, my LinkedIn is [here](https://www.linkedin.com/in/stamatiavafeas/) and my email is shvafeas@gmail.com. -Tia 
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
