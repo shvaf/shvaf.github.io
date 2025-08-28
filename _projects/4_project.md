@@ -30,6 +30,8 @@ Date → Date of transaction (YYYY-MM-DD)
 
 Time → Exact time of transaction (HH:MM:SS)
 
+I am using SAS online for acedemics so I am limited in the size of dataset that I can work with
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
