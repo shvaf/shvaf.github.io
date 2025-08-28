@@ -461,9 +461,9 @@ ninja.data = [{
           description: "Updated May 29, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-optimizing-coffee-selection-by-budget",
-          title: 'Optimizing Coffee Selection by Budget',
-          description: "published June, 2025",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-",
