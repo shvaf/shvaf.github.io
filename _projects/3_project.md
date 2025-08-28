@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimizing Coffee Selection by Budget
+title: UNDER CONSTRUCTION: Optimizing Coffee Selection by Budget
 description: published June, 2025
 img: assets/img/7.jpg
 importance: 1
