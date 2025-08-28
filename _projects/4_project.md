@@ -7,6 +7,30 @@ importance: 3
 category: fun
 ---
 
+This project is an oppurtunity for me to refresh my skills in SAS. I found a dataset of Coffee Sales from Kaggle (linked [here](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)) and will be using this to showcase my skills in SAS. Some information about the variables:
+hour_of_day → Hour of purchase (0–23)
+
+cash_type → Mode of payment (cash / card)
+
+money → Transaction amount (in local currency)
+
+coffee_name → Type of coffee purchased (e.g., Latte, Americano, Hot Chocolate)
+
+Time_of_Day → Categorized time of purchase (Morning, Afternoon, Night)
+
+Weekday → Day of the week (e.g., Mon, Tue, …)
+
+Month_name → Month of purchase (e.g., Jan, Feb, Mar)
+
+Weekdaysort → Numeric representation for weekday ordering (1 = Mon, 7 = Sun)
+
+Monthsort → Numeric representation for month ordering (1 = Jan, 12 = Dec)
+
+Date → Date of transaction (YYYY-MM-DD)
+
+Time → Exact time of transaction (HH:MM:SS)
+
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
