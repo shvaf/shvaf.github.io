@@ -15,7 +15,7 @@ horizontal: false
     <a id="{{ category }}" href=".#{{ category }}">
       <h2 class="category">{{ category }}</h2>
     </a>
-    {% assign categorized_projects = site.projects | where: "category", category | sort: "importance" | slice: 0, 3 %}
+    {% assign categorized_projects = site.projects | where: "category", category | sort: "importance" %}
     {% if page.horizontal %}
       <div class="container">
         <div class="row row-cols-1 row-cols-md-2">
@@ -33,7 +33,7 @@ horizontal: false
     {% endif %}
   {% endfor %}
 {% else %}
-  {% assign sorted_projects = site.projects | sort: "importance" | slice: 0, 3 %}
+  {% assign sorted_projects = site.projects | sort: "importance" %}
   {% if page.horizontal %}
     <div class="container">
       <div class="row row-cols-1 row-cols-md-2">
