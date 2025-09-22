@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UNDER CONSTRUCTION: Using SAS to evaluate Coffee Sales Trends
+title: UNDER CONSTRUCTION - Using SAS to evaluate Coffee Sales Trends
 description: another without an image
 img:
 importance: 3
