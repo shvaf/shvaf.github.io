@@ -4,7 +4,7 @@ title: UNDER CONSTRUCTION - Optimizing Coffee Selection by Budget
 description: published June, 2025
 img: assets/img/7.jpg
 importance: 1
-category: work
+category: fun
 ---
 
 The original version of this project was created my R Programming course in graduate school; a course that I enjoyed so much that I returned as a TA. The original link can be found here: [link](https://sph-r-programming-2023-midterms.netlify.app/midterm/midterm_vafeas). Since completing the course, I've worked on updating the code so that it can be better presented. My reach goal is to create an interactive RShiny app, stay tuned for that!
