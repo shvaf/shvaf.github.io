@@ -5,6 +5,7 @@ description: another without an image
 img:
 importance: 3
 category: fun
+published: false
 ---
 
 This project is an oppurtunity for me to refresh my skills in SAS. I found a dataset of Coffee Sales from Kaggle (linked [here](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)) and will be using this to showcase my skills in SAS. Some information about the variables:
