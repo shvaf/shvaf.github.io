@@ -27,7 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This portfolio is currently under construction. There are projects under the Project tab so please head over there for now. Feel free to come back in the coming weeks as this portfolio is further customized. If you want to provide any feedback or contact me, my LinkedIn is [here](https://www.linkedin.com/in/stamatiavafeas/) and my email is shvafeas@gmail.com. -Tia 
+Hello! My name is Tia and welcome to my GitHub! 
+
+👩‍🔬 I started out in Bioengineering at the University of Maryland, then spent five years in analytical chemistry and drug development at NextCure, an oncology start-up. Along the way, I realized I was more interested in analyzing people than proteins — which led me to a Master’s in Biostatistics.
+
+📊 Since then, I’ve worked on projects ranging from Python NLP for cancer research at the Knight Cancer Institute to EHR data analysis on maternal morbidity. I love turning messy health data into meaningful insights.
+
+💻 These days, I’m freelancing, taking on new clients, and always building out new portfolio projects.
+
+⛰️ Outside of data, you’ll usually find me outside, enjoying the mountains by camping or hiking in the beautiful Pacific Northwest. 
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
