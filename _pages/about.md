@@ -37,6 +37,8 @@ Hello! My name is Tia and welcome to my GitHub!
 
 ⛰️ Outside of data, you’ll usually find me outside, enjoying the mountains by camping or hiking in the beautiful Pacific Northwest. 
 
+If you want to contact me, my LinkedIn is [here](https://www.linkedin.com/in/stamatiavafeas/) and my email is shvafeas@gmail.com.
+
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
