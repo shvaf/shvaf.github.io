@@ -31,7 +31,7 @@ Hello! My name is Tia and welcome to my GitHub!
 
 👩‍🔬 I started out in Bioengineering at the University of Maryland, then spent five years in analytical chemistry and drug development at NextCure, an oncology start-up. Along the way, I realized I was more interested in analyzing people than proteins — which led me to a Master’s in Biostatistics.
 
-📊 Since then, I’ve worked on projects ranging from Python NLP for cancer research at the Knight Cancer Institute to EHR data analysis on maternal morbidity. I love turning messy health data into meaningful insights.
+📊 Since then, I’ve worked on projects ranging from Python Regex for DVT research at the Knight Cancer Institute to EHR data analysis on maternal morbidity. I love turning messy health data into meaningful insights.
 
 💻 These days, I’m freelancing, taking on new clients, and always building out new portfolio projects.
 
